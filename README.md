@@ -2,7 +2,7 @@
 
 <h1> I'm Guilherme, I have 17 years </h1>
 <h1> I'm studing Java by Entra 21 at Furb</h1>
-<h1>I have interest to work in the software delevopment area</h1>
+<h1>I have interest to work in the software delevopement area</h1>
 <a href="http://www.Instagram.com/guilhermemwenderlich" target="_blank" 
 
 <!--
